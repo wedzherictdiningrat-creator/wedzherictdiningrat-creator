@@ -80,12 +80,12 @@ Become a skilled CyberSecurity professional by improving practical skills throug
 
 | Technology | Progress |
 |------------|----------|
-| <img src="https://skillicons.dev/icons?i=python" width="22"> Python | █████░░░░░ **50%** |
-| <img src="https://skillicons.dev/icons?i=javascript" width="22"> JavaScript | ████░░░░░░ **40%** |
+| <img src="https://skillicons.dev/icons?i=python" width="22"> Python | █████░░░░░ **10%** |
+| <img src="https://skillicons.dev/icons?i=javascript" width="22"> JavaScript | ████░░░░░░ **10%** |
 | <img src="https://skillicons.dev/icons?i=linux" width="22"> Linux | ████░░░░░░ **40%** |
-| <img src="https://skillicons.dev/icons?i=php" width="22"> PHP | ██░░░░░░░░ **30%** |
-| <img src="https://skillicons.dev/icons?i=c" width="22"> C | █░░░░░░░░░ **10%** |
-| <img src="https://skillicons.dev/icons?i=java" width="22"> Java | █░░░░░░░░░ **10%** |
+| <img src="https://skillicons.dev/icons?i=php" width="22"> PHP | ██░░░░░░░░ **10%** |
+| <img src="https://skillicons.dev/icons?i=c" width="22"> C | █░░░░░░░░░ **5%** |
+| <img src="https://skillicons.dev/icons?i=java" width="22"> Java | █░░░░░░░░░ **5%** |
 | <img src="https://skillicons.dev/icons?i=cs" width="22"> C# | ▌░░░░░░░░░ **5%** |
 
 </td>
